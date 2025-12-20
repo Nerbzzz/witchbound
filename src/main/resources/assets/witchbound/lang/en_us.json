@@ -1,0 +1,13 @@
+{
+  "itemGroup.witchbound": "Example Mod Tab",
+  "block.witchbound.example_block": "Example Block",
+  "item.witchbound.example_item": "Example Item",
+
+  "witchbound.configuration.title": "Witchbound Configs",
+  "witchbound.configuration.section.witchbound.common.toml": "Witchbound Configs",
+  "witchbound.configuration.section.witchbound.common.toml.title": "Witchbound Configs",
+  "witchbound.configuration.items": "Item List",
+  "witchbound.configuration.logDirtBlock": "Log Dirt Block",
+  "witchbound.configuration.magicNumberIntroduction": "Magic Number Text",
+  "witchbound.configuration.magicNumber": "Magic Number"
+}
