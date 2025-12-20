@@ -1,6 +1,6 @@
 # Witchbound
 
-Witchbound is a comprehensive Neo-forge witchcraft mod for Minecraft that brings rituals, poppets & voodoo, and
+Witchbound is a comprehensive Neo-forge mod that brings witchcraft to Minecraft. It introduces a variety of features including herbology, brewing, poppets & voodoo, and circle magic & rituals.
 
 ## Features
 - Herbology
