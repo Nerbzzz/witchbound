@@ -1,5 +1,7 @@
 package me.nerbzzz.witchbound;
 
+import me.nerbzzz.witchbound.common.index.WitchboundBlocks;
+import me.nerbzzz.witchbound.common.index.WitchboundItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -38,6 +40,10 @@ public class Witchbound {
 
     public Witchbound(IEventBus modEventBus, ModContainer modContainer) {
         modEventBus.addListener(this::commonSetup);
+
+        WitchboundItems.initialize(modEventBus);
+        WitchboundBlocks.initialize(modEventBus);
+
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {}

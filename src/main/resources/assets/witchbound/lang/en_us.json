@@ -1,13 +1,15 @@
 {
-  "itemGroup.witchbound": "Example Mod Tab",
-  "block.witchbound.example_block": "Example Block",
-  "item.witchbound.example_item": "Example Item",
+  "block.witchbound.mandrake": "Mandrake",
+  "block.witchbound.belladonna": "Belladonna",
+  "block.witchbound.wormwood": "Wormwood",
+  "block.witchbound.wolfsbane": "Wolfsbane",
 
-  "witchbound.configuration.title": "Witchbound Configs",
-  "witchbound.configuration.section.witchbound.common.toml": "Witchbound Configs",
-  "witchbound.configuration.section.witchbound.common.toml.title": "Witchbound Configs",
-  "witchbound.configuration.items": "Item List",
-  "witchbound.configuration.logDirtBlock": "Log Dirt Block",
-  "witchbound.configuration.magicNumberIntroduction": "Magic Number Text",
-  "witchbound.configuration.magicNumber": "Magic Number"
+  "item.witchbound.mandrake_seeds": "Mandrake Seeds",
+  "item.witchbound.mandrake": "Mandrake Root",
+  "item.witchbound.belladonna_seeds": "Belladonna Seeds",
+  "item.witchbound.belladonna": "Belladonna Flower",
+  "item.witchbound.wormwood_seeds": "Wormwood Seeds",
+  "item.witchbound.wormwood": "Wormwood",
+  "item.witchbound.wolfsbane_seeds": "Wolfsbane Seeds",
+  "item.witchbound.wolfsbane": "Wolfsbane"
 }
